@@ -1,4 +1,4 @@
-(ns clj-books.brave-and-true.cap3.repl-playground)
+(ns clj-books.brave-and-true.chap3.repl-playground)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Forms
